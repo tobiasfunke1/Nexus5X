@@ -1,0 +1,33 @@
+name: Update download links
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Run scraper
+        run: bash ./update.sh
+
+      - name: Commit changes if needed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add FactoryImages.txt FullOTAImages.txt DriverBinaries.txt FactoryImagesWatch.txt FullOTAImagesWatch.txt
+          git commit -m "`date`"
+          git push
