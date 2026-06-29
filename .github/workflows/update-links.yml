@@ -30,4 +30,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add FactoryImages.txt FullOTAImages.txt DriverBinaries.txt FactoryImagesWatch.txt FullOTAImagesWatch.txt
           git commit -m "`date`"
+          git pull --rebase origin master
           git push
