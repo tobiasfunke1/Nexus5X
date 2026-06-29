@@ -2,8 +2,7 @@ name: Update download links
 
 on:
   schedule:
-    - cron: "33 6 * * *"
-  workflow_dispatch:
+    - cron: '33 6 * * *'
 
 permissions:
   contents: write
