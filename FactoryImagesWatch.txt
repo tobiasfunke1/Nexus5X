@@ -1,3 +1,4 @@
+https://dl.google.com/dl/android/aosp/goteria-cd5a.260611.008-factory-5df69418.zip
 https://dl.google.com/dl/android/aosp/menari_lte-bd5a.250325.139.a1-factory-1a3022d5.zip
 https://dl.google.com/dl/android/aosp/menari_lte-bd5a.250325.166.a1-factory-39796322.zip
 https://dl.google.com/dl/android/aosp/menari_lte-bp4a.251205.005.w7-factory-f7a422f9.zip

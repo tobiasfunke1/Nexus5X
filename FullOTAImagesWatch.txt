@@ -1,3 +1,4 @@
+https://dl.google.com/dl/android/aosp/goteria-ota-cd5a.260611.008-a9ebeb61.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-bd5a.250325.139.a1-4625fdb5.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-bd5a.250325.166.a1-f0c80946.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-bp4a.251205.005.w7-2fcc01d2.zip
