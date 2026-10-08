@@ -1,14 +1,17 @@
 https://dl.google.com/dl/android/aosp/goteria-ota-cd5a.260611.008-a9ebeb61.zip
+https://dl.google.com/dl/android/aosp/goteria-ota-cp3a.260905.002-a5c9e327.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-bd5a.250325.139.a1-4625fdb5.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-bd5a.250325.166.a1-f0c80946.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-bp4a.251205.005.w7-2fcc01d2.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-cp1a.260305.014.w4-4a5025be.zip
 https://dl.google.com/dl/android/aosp/menari_lte-ota-cp2a.260603.001-a693c395.zip
+https://dl.google.com/dl/android/aosp/menari_lte-ota-cp3a.260905.002-2eb81405.zip
 https://dl.google.com/dl/android/aosp/menari_btwifi-ota-bd5a.250325.139.a1-8ac59531.zip
 https://dl.google.com/dl/android/aosp/menari_btwifi-ota-bd5a.250325.166.a1-44128f1a.zip
 https://dl.google.com/dl/android/aosp/menari_btwifi-ota-bp4a.251205.005.w7-fbd8cac0.zip
 https://dl.google.com/dl/android/aosp/menari_btwifi-ota-cp1a.260305.014.w2-05b89b80.zip
 https://dl.google.com/dl/android/aosp/menari_btwifi-ota-cp2a.260603.001.s1-53925a72.zip
+https://dl.google.com/dl/android/aosp/menari_btwifi-ota-cp3a.260905.002-1f8dbaea.zip
 https://dl.google.com/dl/android/aosp/seluna-ota-aw2a.240903.001.a3-34586937.zip
 https://dl.google.com/dl/android/aosp/seluna-ota-aw2a.241105.012-870abe03.zip
 https://dl.google.com/dl/android/aosp/seluna-ota-aw2a.241105.013-05e454e9.zip
@@ -21,6 +24,7 @@ https://dl.google.com/dl/android/aosp/seluna-ota-bp3a.250905.014.w3-9e58e971.zip
 https://dl.google.com/dl/android/aosp/seluna-ota-bp4a.251205.005.w7-4fd7871f.zip
 https://dl.google.com/dl/android/aosp/seluna-ota-cp1a.260305.014.w4-5c3eda13.zip
 https://dl.google.com/dl/android/aosp/seluna-ota-cp2a.260603.001-8ad472c8.zip
+https://dl.google.com/dl/android/aosp/seluna-ota-cp3a.260905.002-583cbf85.zip
 https://dl.google.com/dl/android/aosp/solios-ota-aw2a.240903.001.a4-f28b557f.zip
 https://dl.google.com/dl/android/aosp/solios-ota-aw2a.241105.012-595a9716.zip
 https://dl.google.com/dl/android/aosp/solios-ota-bp1a.250305.019.w3-d31f8724.zip
@@ -31,6 +35,7 @@ https://dl.google.com/dl/android/aosp/solios-ota-bp3a.250905.014.w3-08bb11e5.zip
 https://dl.google.com/dl/android/aosp/solios-ota-bp4a.251205.005.w7-81989bfa.zip
 https://dl.google.com/dl/android/aosp/solios-ota-cp1a.260305.014.w2-4af7d43f.zip
 https://dl.google.com/dl/android/aosp/solios-ota-cp2a.260603.001.s1-bf108b13.zip
+https://dl.google.com/dl/android/aosp/solios-ota-cp3a.260905.002-24104714.zip
 https://dl.google.com/dl/android/aosp/eos-ota-twd6.230602.040-331c286e.zip
 https://dl.google.com/dl/android/aosp/eos-ota-twd6.230602.040.a1-e834eab6.zip
 https://dl.google.com/dl/android/aosp/eos-ota-twd9.231005.005.b1-3c4b553d.zip
@@ -55,6 +60,7 @@ https://dl.google.com/dl/android/aosp/eos-ota-bp3a.250905.014.w3-1d29b74d.zip
 https://dl.google.com/dl/android/aosp/eos-ota-bp4a.251205.005.w7-2c214782.zip
 https://dl.google.com/dl/android/aosp/eos-ota-cp1a.260305.014.w4-c933bd0c.zip
 https://dl.google.com/dl/android/aosp/eos-ota-cp2a.260603.001-8ec85229.zip
+https://dl.google.com/dl/android/aosp/eos-ota-cp3a.260905.002.e1-ba4dd3fa.zip
 https://dl.google.com/dl/android/aosp/aurora-ota-twd6.230602.036-96276504.zip
 https://dl.google.com/dl/android/aosp/aurora-ota-twd9.231005.005.b1-ade1ccb4.zip
 https://dl.google.com/dl/android/aosp/aurora-ota-twd9.231205.001-76a66188.zip
@@ -75,6 +81,7 @@ https://dl.google.com/dl/android/aosp/aurora-ota-bp3a.250905.014.w3-a2129c14.zip
 https://dl.google.com/dl/android/aosp/aurora-ota-bp4a.251205.005.w7-2dccabee.zip
 https://dl.google.com/dl/android/aosp/aurora-ota-cp1a.260305.014.w2-d7024964.zip
 https://dl.google.com/dl/android/aosp/aurora-ota-cp2a.260603.001.s1-7d3269a9.zip
+https://dl.google.com/dl/android/aosp/aurora-ota-cp3a.260905.002.e1-91a44a39.zip
 https://dl.google.com/dl/android/aosp/r11-ota-rwd9.220429.033.g1-314a073f.zip
 https://dl.google.com/dl/android/aosp/r11-ota-rwd9.220429.033.j4-7dfab7dc.zip
 https://dl.google.com/dl/android/aosp/r11-ota-rwd9.220429.039.a1-b595fb17.zip
